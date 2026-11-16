@@ -1,0 +1,14 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+
+# Backup copies
+project_backup/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
